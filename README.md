@@ -89,7 +89,7 @@ ACF/PACF plots guide parameter tuning.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Clone repo
