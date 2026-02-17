@@ -41,11 +41,11 @@ Typical fields used:
 
 - **Python**
 - **Jupyter Notebook**
-- **pandas** – data manipulation  
-- **numpy** – numerical computing  
-- **matplotlib / seaborn** – visualization  
-- **statsmodels** – SARIMA modeling  
-- **yfinance** – financial data retrieval  
+- **pandas** - data manipulation  
+- **numpy** - numerical computing  
+- **matplotlib / seaborn** - visualization  
+- **statsmodels** - SARIMA modeling  
+- **yfinance** - financial data retrieval  
 
 ---
 
@@ -68,10 +68,10 @@ Typical fields used:
 
 SARIMA parameters:
 
-- **p** – autoregressive order  
-- **d** – differencing order  
-- **q** – moving average order  
-- **P, D, Q, s** – seasonal components  
+- **p** - autoregressive order  
+- **d** - differencing order  
+- **q** - moving average order  
+- **P, D, Q, s** - seasonal components  
 
 ACF/PACF plots guide parameter tuning.
 
